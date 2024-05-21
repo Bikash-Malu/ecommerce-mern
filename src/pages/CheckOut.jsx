@@ -174,6 +174,7 @@ const ChecckOut = () => {
                     id="push-everything"
                     name="push-notifications"
                     type="radio"
+                    
                     className="h-4 w-4 border-gray-300 text-indigo-600 focus:ring-indigo-600"
                   />
                   <label htmlFor="push-everything" className="block text-sm font-medium leading-6 text-gray-900">
